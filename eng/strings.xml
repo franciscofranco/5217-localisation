@@ -25,6 +25,9 @@
     <string name="screen_on_off">Display will remain off during cycle transition</string>
     <string name="screen_on_on">Display will turn on to indicate cycle transition</string>
     <string name="screen_on_title">Use display to indicate cycle transition</string>
+    <string name="translate">Help us translate 5217</string>
+
+    <!-- Break motivational messages -->
     <string name="cup_of_tea">\" - have a cup of tea!\"</string>
     <string name="feet_up">\" - put your feet up!\"</string>
     <string name="deep_breath">\" - take a deep breath!\"</string>
