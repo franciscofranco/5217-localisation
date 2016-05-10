@@ -1,0 +1,64 @@
+<resources>
+    <string name="time_for_a_break">Ora di fare una pausa</string>
+    <string name="of_work_left">%1$d minuti rimanenti in questo intervallo</string>
+    <string name="of_break_left">%1$d minuti rimanenti</string>
+    <string name="work_time">Continua a lavorare!</string>
+    <string name="liam_spradlin_title">Disegnato con amore da</string>
+    <string name="francisco_franco_title">Sviluppato magicamente da</string>
+    <string name="about_title">Info su 5217</string>
+    <string name="open_with">Apri con…</string>
+    <string name="share_title">Condividi</string>
+    <string name="options_title">Opzioni</string>
+    <string name="keep_display_on_while_charging">Mantieni il display acceso durante la carica</string>
+    <string name="display_will_stay_on">il display rimarrà acceso</string>
+    <string name="display_will_stay_off">predefinito di sistema</string>
+    <string name="rate_5217">Vota 5217</string>
+    <string name="be_productive_and_download">Sii produttivo come me!\n\nScarica 5217 - https://goo.gl/RNbx0l</string>
+    <string name="reset_toast">Azzera il timer</string>
+    <string name="retry">Riprova</string>
+    <string name="cancel">Annulla</string>
+    <string name="license_error">Non passerai mai!</string>
+    <string name="license_error_summary">Impossibile verificare la licenza di acquisto. Si prega di contattarci qualora si tratti di un errore</string>
+    <string name="led_off">Il LED non si accenderà durante il ciclo di lavoro 5217</string>
+    <string name="led_on">Il LED si accenderà durante il ciclo di lavoro 5217</string>
+    <string name="led_title">Notifica LED</string>
+    <string name="screen_on_off">Il display rimarrà spento durante il passaggio di ciclo</string>
+    <string name="screen_on_on">Il display si accederà per indicare il passaggio di ciclo</string>
+    <string name="screen_on_title">Utilizza il display per indicare il passaggio di ciclo</string>
+    <string name="translate">Aiutaci a tradurre 5217</string>
+
+    <!-- Break motivational messages -->
+    <string name="cup_of_tea">\u0020- prenditi una tazza di te!</string>
+    <string name="feet_up">\u0020- solleva i piedi!</string>
+    <string name="deep_breath">\u0020- prendi un bel respiro!</string>
+    <string name="ponder_infinity">\u0020- pensa all\'infinito…</string>
+    <string name="enjoy_moment">\u0020- goditi il momento!</string>
+    <string name="order_pizza">\u0020- vuoi ordinare una pizza?</string>
+    <string name="hi_to_stranger">\u0020- saluta uno sconosciuto!</string>
+    <string name="take_walk_around">\u0020- fa due passi!</string>
+    <string name="stand_stretch">\u0020- alzati e stiracchiati!</string>
+    <string name="grab_coffee">\u0020-prenditi un caffè!</string>
+    <string name="strike_pose">\u0020- fa dello stretching !</string>
+    <string name="catch_up_reading">\u0020- leggi un capitolo del romanzo!</string>
+    <string name="brainstorm">\u0020- rifletti un po\'!</string>
+    <string name="clean_junk_drawer">\u0020- pulisci il tuo cassetto!</string>
+    <string name="have_a_daydream">\u0020- sogna a occhi aperti!</string>
+    <string name="share_progress">\u0020- condividi i tuoi progressi!</string>
+    <string name="clear_your_mind">\u0020- svuota la mente!</string>
+    <string name="meditate">\u0020- medita!</string>
+    <string name="just_relax">\u0020- rilassati!</string>
+    <string name="find_a_playlist">\u0020- crea una playlist musicale!</string>
+    <string name="rest_your_eyes">\u0020- riposati gli occhi!</string>
+    <string name="stretch_your_legs">\u0020- allungati le gambe!</string>
+    <string name="think_of_a_joke">\u0020- pensa a quella barzelletta!</string>
+    <string name="make_quick_call">\u0020- fa una veloce telefonata!</string>
+    <string name="read_listicle">\u0020- leggi un articolo!</string>
+    <string name="have_a_snack">\u0020- fa uno spuntino!</string>
+    <string name="play_quick_game">\u0020- fa una partitina!</string>
+    <string name="consider_the_universe">\u0020- pensa all\'immensità dell\'universo!</string>
+    <string name="watch_funny_video">\u0020- guarda un video divertente!</string>
+    <string name="treat_yourself">\u0020- mangia una caramella!</string>
+    <string name="have_a_kitkat">\u0020- … spezza un KitKat!</string>
+</resources>
+Status API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Contact Help
