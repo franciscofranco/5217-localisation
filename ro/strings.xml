@@ -17,7 +17,7 @@
     <string name="reset_toast">Resetează cronometrul</string>
     <string name="retry">Reîncearcă</string>
     <string name="cancel">Anulare</string>
-    <string name="license_error">You shall not pass!</string>
+    <string name="license_error">Tu nu vei trece!</string>
     <string name="license_error_summary">Nu am reusit sa validam licenta. Contactează-ne in cazul in care consideri că e o greseală</string>
     <string name="led_off">LED-ul nu o să fie activ în 5217 pe durata ciclului</string>
     <string name="led_on">LED-ul o să fie activ în 5217 pe durata ciclului</string>
