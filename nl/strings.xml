@@ -17,7 +17,7 @@
     <string name="reset_toast">Reset de timer</string>
     <string name="retry">Probeer opnieuw</string>
     <string name="cancel">Annuleer</string>
-    <string name="license_error">You shall not pass!</string>
+    <string name="license_error">Je zal er niet doorgaan!</string>
     <string name="license_error_summary">We konden uw aankooplicentie niet controleren. Neem contact met ons op als u denkt dat dit een vergissing is</string>
     <string name="led_off">Led zal niet branden tijdens een werkcyclus van 5217</string>
     <string name="led_on">LED zal blijven branden tijdens een werkcyclus van 5217</string>
