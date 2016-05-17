@@ -11,7 +11,7 @@
     <string name="options_title">Options</string>
     <string name="keep_display_on_while_charging">Garder l\'écran allumé pendant la charge</string>
     <string name="display_will_stay_on">l\'écran restera allumé</string>
-    <string name="display_will_stay_off">Paramètre système</string>
+    <string name="system_default">Paramètre système</string>
     <string name="rate_5217">Noter 5217</string>
     <string name="be_productive_and_download">Sois aussi productif que moi!\n\nTélécharge 5217 - https://goo.gl/RNbx0l</string>
     <string name="reset_toast">Réinitialiser le timer</string>

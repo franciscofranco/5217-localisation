@@ -11,7 +11,7 @@
     <string name="options_title">Opzioni</string>
     <string name="keep_display_on_while_charging">Mantieni il display acceso durante la carica</string>
     <string name="display_will_stay_on">il display rimarrà acceso</string>
-    <string name="display_will_stay_off">predefinito di sistema</string>
+    <string name="system_default">predefinito di sistema</string>
     <string name="rate_5217">Vota 5217</string>
     <string name="be_productive_and_download">Sii produttivo come me!\n\nScarica 5217 - https://goo.gl/RNbx0l</string>
     <string name="reset_toast">Azzera il timer</string>

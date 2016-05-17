@@ -11,7 +11,7 @@
     <string name="options_title">Opções</string>
     <string name="keep_display_on_while_charging">O ecrã fica ligado enquanto está a carregar o dispositivo</string>
     <string name="display_will_stay_on">o ecrã fica ligado</string>
-    <string name="display_will_stay_off">definições do sistema</string>
+    <string name="system_default">definições do sistema</string>
     <string name="rate_5217">Classifica o 5217</string>
     <string name="be_productive_and_download">Sê produtivo como eu!\n\nDescarrega o 5217 - https://goo.gl/RNbx0l</string>
     <string name="reset_toast">Reinicia o temporizador</string>
@@ -26,6 +26,8 @@
     <string name="screen_on_on">O ecrã vai se ligar nas mudanças de ciclos</string>
     <string name="screen_on_title">Utilizar o ecrã para indicar mudanças de ciclo</string>
     <string name="translate">Ajuda-nos a traduzir o 5217</string>
+    <string name="vibration_title">Vibração</string>
+    <string name="vibration_on">o dispositivo vibra nas transições de ciclo</string>
 
     <!-- Break motivational messages -->
     <string name="cup_of_tea">\u0020- toma uma chávena de chá!</string>

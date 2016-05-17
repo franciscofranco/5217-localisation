@@ -11,7 +11,7 @@
     <string name="options_title">Opties</string>
     <string name="keep_display_on_while_charging">Houd scherm aan tijdens het opladen</string>
     <string name="display_will_stay_on">scherm blijft aan</string>
-    <string name="display_will_stay_off">systeem standaard</string>
+    <string name="system_default">systeem standaard</string>
     <string name="rate_5217">Beoordeel 5217</string>
     <string name="be_productive_and_download">Wees zo productief als mij!\n\nDownload 5217 - https://goo.gl/RNbx0l</string>
     <string name="reset_toast">Reset de timer</string>
