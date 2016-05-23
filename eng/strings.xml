@@ -1,7 +1,7 @@
 <resources>
     <string name="time_for_a_break">Time for a break</string>
-    <string name="of_work_left">%1$d minutes left in this cycle</string>
-    <string name="of_break_left">%1$d minutes left</string>
+    <string name="of_work_left">%1$d %2$s left in this cycle</string>
+    <string name="of_break_left">%1$d %2$s left</string>
     <string name="work_time">Keep working!</string>
     <string name="liam_spradlin_title">Designed with care by</string>
     <string name="francisco_franco_title">Magically developed by</string>
@@ -28,6 +28,16 @@
     <string name="translate">Help us translate 5217</string>
     <string name="vibration_title">Vibration</string>
     <string name="vibration_on">the device vibrates on cycle transitions</string>
+    <string name="invite_title">Invite your friends to use 5217</string>
+    <string name="invite_message">Hey! I\'ve been using 5217 to boost my productivity. Try it out and let me know how it works for you!</string>
+    <string name="invite_cta">BE MORE PRODUCTIVE</string>
+    <string name="alarm_sound_title">Alarm sound</string>
+    <string name="alarm_sound_title_off">volume scales with the system notification setting</string>
+    <string name="alarm_sound_title_on">volume is independent of the system setting</string>
+    <string name="about_header_1">5217 is a simple productivity timer based on 52/17 work cycle described by</string>
+    <string name="here">here</string>
+    <string name="minute">minute</string>
+    <string name="minutes">minutes</string>
 
     <!-- Break motivational messages -->
     <string name="cup_of_tea">\u0020- have a cup of tea!</string>
