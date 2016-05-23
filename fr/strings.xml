@@ -1,7 +1,7 @@
 <resources>
     <string name="time_for_a_break">C\'est l\'heure de faire une pause!</string>
-    <string name="of_work_left">%1$d minutes restantes dans ce cycle</string>
-    <string name="of_break_left">%1$d minutes restantes</string>
+    <string name="of_work_left">%1$d %2$s restantes dans ce cycle</string>
+    <string name="of_break_left">%1$d %2$s restantes</string>
     <string name="work_time">Travaillez!</string>
     <string name="liam_spradlin_title">Designé avec soin par</string>
     <string name="francisco_franco_title">Développé magiquement par</string>
