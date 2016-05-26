@@ -1,5 +1,5 @@
 <resources>
-    <string name="time_for_a_break">C'est l'heure de faire une pause!</string>
+    <string name="time_for_a_break">C\'est l\'heure de faire une pause!</string>
     <string name="of_work_left">%1$d minutes restantes dans ce cycle</string>
     <string name="of_break_left">%1$d minutes restantes</string>
     <string name="work_time">Travaillez!</string>
@@ -9,30 +9,30 @@
     <string name="open_with">Ouvrir avec…</string>
     <string name="share_title">Partager</string>
     <string name="options_title">Options</string>
-    <string name="keep_display_on_while_charging">Garder l'écran allumé pendant la charge</string>
-    <string name="display_will_stay_on">l'écran restera allumé</string>
-    <string name="display_will_stay_off">Paramètre système</string>
+    <string name="keep_display_on_while_charging">Garder l\'écran allumé pendant la charge</string>
+    <string name="display_will_stay_on">l\'écran restera allumé</string>
+    <string name="system_default">Paramètre système</string>
     <string name="rate_5217">Noter 5217</string>
     <string name="be_productive_and_download">Sois aussi productif que moi!\n\nTélécharge 5217 - https://goo.gl/RNbx0l</string>
     <string name="reset_toast">Réinitialiser le timer</string>
     <string name="retry">Réessayer</string>
     <string name="cancel">Annuler</string>
     <string name="license_error">Vous ne passerez pas!</string>
-    <string name="license_error_summary">Impossible de vérifier votre licence d'achat. Contactez nous si vous pensez que c'est une erreur</string>
-    <string name="led_off">La LED ne s'activera pas pour 5217 pendant le cycle de travail</string>
+    <string name="license_error_summary">Impossible de vérifier votre licence d\'achat. Contactez nous si vous pensez que c\'est une erreur</string>
+    <string name="led_off">La LED ne s\'activera pas pour 5217 pendant le cycle de travail</string>
     <string name="led_on">La LED restera activée pour 5217 pendant le cycle de travail</string>
     <string name="led_title">LED de notification</string>
-    <string name="screen_on_off">L'écran restera éteint au passage au prochain cycle</string>
-    <string name="screen_on_on">L'écran s'allumera pour indiquer le passage au prochain cycle</string>
-    <string name="screen_on_title">Utiliser l'écran pour indiquer le passage au prochain cycle</string>
+    <string name="screen_on_off">L\'écran restera éteint au passage au prochain cycle</string>
+    <string name="screen_on_on">L\'écran s\'allumera pour indiquer le passage au prochain cycle</string>
+    <string name="screen_on_title">Utiliser l\'écran pour indiquer le passage au prochain cycle</string>
     <string name="translate">Aidez nous à traduire 5217</string>
 
     <!-- Break motivational messages -->
     <string name="cup_of_tea">\u0020- servez vous un thé!</string>
     <string name="feet_up">\u0020- levez le pied!</string>
     <string name="deep_breath">\u0020- respirez un bon coup!</string>
-    <string name="ponder_infinity">\u0020- scrutez l'infini…</string>
-    <string name="enjoy_moment">\u0020- profitez de l'instant!</string>
+    <string name="ponder_infinity">\u0020- scrutez l\'infini…</string>
+    <string name="enjoy_moment">\u0020- profitez de l\'instant!</string>
     <string name="order_pizza">\u0020- commandez une pizza ?</string>
     <string name="hi_to_stranger">\u0020- saluez un étranger!</string>
     <string name="take_walk_around">\u0020- allez faire un tour!</string>
@@ -44,7 +44,7 @@
     <string name="clean_junk_drawer">\u0020- rangez votre tiroir à bazar!</string>
     <string name="have_a_daydream">\u0020- laissez vous aller à la rêverie!</string>
     <string name="share_progress">\u0020- partagez vos progrès!</string>
-    <string name="clear_your_mind">\u0020- videz vous l'esprit!</string>
+    <string name="clear_your_mind">\u0020- videz vous l\'esprit!</string>
     <string name="meditate">\u0020- méditez!</string>
     <string name="just_relax">\u0020- relaxez vous!</string>
     <string name="find_a_playlist">\u0020- trouvez une bonne playlist!</string>
@@ -55,7 +55,7 @@
     <string name="read_listicle">\u0020- lisez un article!</string>
     <string name="have_a_snack">\u0020- allez grignoter!</string>
     <string name="play_quick_game">\u0020- une petite partie ?</string>
-    <string name="consider_the_universe">\u0020- songez à l'univers!</string>
+    <string name="consider_the_universe">\u0020- songez à l\'univers!</string>
     <string name="watch_funny_video">\u0020- regardez une vidéo drôle!</string>
     <string name="treat_yourself">\u0020- prenez soin de vous!</string>
     <string name="have_a_kitkat">\u0020- … avoir un KitKat!</string>

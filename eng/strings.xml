@@ -11,7 +11,7 @@
     <string name="options_title">Options</string>
     <string name="keep_display_on_while_charging">Keep display on while charging</string>
     <string name="display_will_stay_on">display will stay on</string>
-    <string name="display_will_stay_off">system default</string>
+    <string name="system_default">system default</string>
     <string name="rate_5217">Rate 5217</string>
     <string name="be_productive_and_download">Be productive like me!\n\nDownload 5217 - https://goo.gl/RNbx0l</string>
     <string name="reset_toast">Reset the timer</string>
@@ -19,13 +19,15 @@
     <string name="cancel">Cancel</string>
     <string name="license_error">You shall not pass!</string>
     <string name="license_error_summary">We were unable to verify your purchase license. Contact us if you believe this is a mistake</string>
-    <string name="led_off">LED will not activate for 5217 during work cycle</string>
-    <string name="led_on">LED will remain active for 5217 during work cycle</string>
+    <string name="led_off">will not activate for 5217 during work cycle</string>
+    <string name="led_on">will remain active for 5217 during work cycle</string>
     <string name="led_title">Notification LED</string>
-    <string name="screen_on_off">Display will remain off during cycle transition</string>
-    <string name="screen_on_on">Display will turn on to indicate cycle transition</string>
+    <string name="screen_on_off">display will remain off during cycle transition</string>
+    <string name="screen_on_on">display will turn on to indicate cycle transition</string>
     <string name="screen_on_title">Use display to indicate cycle transition</string>
     <string name="translate">Help us translate 5217</string>
+    <string name="vibration_title">Vibration</string>
+    <string name="vibration_on">the device vibrates on cycle transitions</string>
 
     <!-- Break motivational messages -->
     <string name="cup_of_tea">\u0020- have a cup of tea!</string>

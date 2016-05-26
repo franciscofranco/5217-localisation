@@ -11,7 +11,7 @@
     <string name="options_title">Indstillinger</string>
     <string name="keep_display_on_while_charging">Hold skærmen tændt under opladning</string>
     <string name="display_will_stay_on">Skærm vil forblive tændt</string>
-    <string name="display_will_stay_off">Systemets standard</string>
+    <string name="system_default">Systemets standard</string>
     <string name="rate_5217">Bedøm 5217</string>
     <string name="be_productive_and_download">Vær produktiv ligesom mig!\n\nDownload 5217 - https://goo.gl/RNbx0l</string>
     <string name="reset_toast">Nulstil timeren</string>
