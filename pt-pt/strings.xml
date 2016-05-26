@@ -1,7 +1,7 @@
 <resources>
     <string name="time_for_a_break">Altura para uma pausa</string>
-    <string name="of_work_left">%1$d minutos para acabar este ciclo</string>
-    <string name="of_break_left">%1$d minutos para acabar</string>
+    <string name="of_work_left">%1$d %2$s para acabar este ciclo</string>
+    <string name="of_break_left">%1$d %2$s para acabar</string>
     <string name="work_time">Continua a trabalhar!</string>
     <string name="liam_spradlin_title">Desenhado com precisão por</string>
     <string name="francisco_franco_title">Magicamente criado por</string>
@@ -28,6 +28,16 @@
     <string name="translate">Ajuda-nos a traduzir o 5217</string>
     <string name="vibration_title">Vibração</string>
     <string name="vibration_on">o dispositivo vibra nas transições de ciclo</string>
+    <string name="invite_title">Convida os teus amigos a usar o 5217</string>
+    <string name="invite_message">Olá! Tenho estado a usar o 5217 para melhorar a minha produtividade. Experimenta e diz-me se te ajuda!</string>
+    <string name="invite_cta">SÊ MAIS PRODUTIVO</string>
+    <string name="alarm_sound_title">Som de alarme</string>
+    <string name="alarm_sound_title_off">o volume escala de acordo com o valor do sistema</string>
+    <string name="alarm_sound_title_on">o volume é independente dos valores da notificação do sistema</string>
+    <string name="about_header_1">5217 é uma simples ferramenta de produtividade para trabalhares em ciclos de 52/17 (minutos) de trabalho e pausa tal como descrito por</string>
+    <string name="here">aqui</string>
+    <string name="minute">minuto</string>
+    <string name="minutes">minutos</string>
 
     <!-- Break motivational messages -->
     <string name="cup_of_tea">\u0020- toma uma chávena de chá!</string>

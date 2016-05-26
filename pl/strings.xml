@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="time_for_a_break">Czas na przerwę</string>
-    <string name="of_work_left">Pozostało %1$d minut w tym cyklu</string>
-    <string name="of_break_left">Pozostało %1$d minut</string>
+    <string name="of_work_left">W tym cyklu pozostało %1$d %2$s</string>
+    <string name="of_break_left">Pozostało %1$d %2$s</string>
     <string name="work_time">Pracuj!</string>
     <string name="liam_spradlin_title">Troskliwie zaprojektował</string>
     <string name="francisco_franco_title">Magicznie zaprogramował</string>
@@ -40,24 +41,24 @@
     <string name="take_walk_around">\u0020- idź na spacer!</string>
     <string name="stand_stretch">\u0020- wstań i rozciągnij się!</string>
     <string name="grab_coffee">\u0020- napij się kawy!</string>
-    <string name="strike_pose">\u0020- przybierz wygodną pozycję!</string>
+    <string name="strike_pose">\u0020- usiądź wygodnie!</string>
     <string name="catch_up_reading">\u0020- poczytaj coś!</string>
     <string name="brainstorm">\u0020- zastanów się nad czymś!</string>
     <string name="clean_junk_drawer">\u0020- posprzątaj w szufladzie!</string>
     <string name="have_a_daydream">\u0020- daj się ponieść wyobraźni!</string>
     <string name="share_progress">\u0020- podziel się postępami!</string>
     <string name="clear_your_mind">\u0020- oczyść swój umysł!</string>
-    <string name="meditate">\u0020- medytuj!</string>
+    <string name="meditate">\u0020- pomedytuj!</string>
     <string name="just_relax">\u0020- po prostu odpocznij!</string>
     <string name="find_a_playlist">\u0020- znajdź dobrą playlistę!</string>
     <string name="rest_your_eyes">\u0020- daj odpocząć oczom!</string>
-    <string name="stretch_your_legs">\u0020- rozciągnij nogi!</string>
+    <string name="stretch_your_legs">\u0020- rozprostuj nogi!</string>
     <string name="think_of_a_joke">\u0020- wymyśl żart!</string>
     <string name="make_quick_call">\u0020- zadzwoń do kogoś!</string>
     <string name="read_listicle">\u0020- przeczytaj krótki artykuł!</string>
     <string name="have_a_snack">\u0020- przekąś coś!</string>
     <string name="play_quick_game">\u0020- zagraj w coś!</string>
-    <string name="consider_the_universe">\u0020- zastanów się nad wrzechświatem!</string>
+    <string name="consider_the_universe">\u0020- zastanów się nad wszechświatem!</string>
     <string name="watch_funny_video">\u0020- obejrzyj śmieszny filmik!</string>
     <string name="treat_yourself">\u0020- zrelaksuj się!</string>
     <string name="have_a_kitkat">\u0020- …, czas na KitKat!</string>
