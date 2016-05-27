@@ -29,7 +29,7 @@
     <string name="vibration_title">Δόνηση</string>
     <string name="vibration_on">η συσκευή δονείται κατά την αλλαγή του κύκλου</string>
     <string name="invite_title">Προσκάλεσε τους φίλους σου να δοκιμάσουν το 5217</string>
-    <string name="invite_message">Ει! Χρησιμοποιώ το 5217 για να αυξήσω την παραγωγικότητα μου. Δοκίμασε το και πες μου αν δουλεύει για \'σένα!</string>
+    <string name="invite_message">Έχω το 5217 για καλύτερη παραγωγικότητα! Δοκίμασε το!</string>
     <string name="invite_cta">ΓΙΝΕ ΠΙΟ ΠΑΡΑΓΩΓΙΚΟΣ</string>
     <string name="alarm_sound_title">Ήχος ξυπνητηριού</string>
     <string name="alarm_sound_title_off">ο ήχος αυξομειώνεται ανάλογα με την ρύθμιση ειδοποίησης του συστήματος</string>
