@@ -22,7 +22,7 @@
     <string name="led_off">काम चक्र के दौरान 5217  सक्रिय नहीं होगा </string>
     <string name="led_on">काम चक्र के दौरान 5217  सक्रिय होगा</string>
     <string name="led_title">अधिसूचना एलईडी</string>
-    <string name="screen_on_off">डिस्प्ले  चक्र संक्रमण के दौरान बंद रहेगा</string>
+    <string name="screen_on_off">चक्र संक्रमण के दौरान  डिस्प्ले  बंद रहेगा</string>
     <string name="screen_on_on">चक्र संक्रमण का संकेत करने पर डिस्प्ले  चालू  हो जाएगा</string>
     <string name="screen_on_title">चक्र संक्रमण करने के दर्शाने  लिए डिस्प्ले  प्रयोग करें</string>
     <string name="translate">हमें 5217 को अनुवाद करने में मदत करें </string>
