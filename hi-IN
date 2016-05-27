@@ -2,7 +2,7 @@
     <string name="time_for_a_break">रुकने का वक़्त हो गया</string>
     <string name="of_work_left">इस चक्र को पूर्ण होने में %1$d %2$s बाकी </string>
     <string name="of_break_left">%1$d %2$s बाकी </string>
-    <string name="work_time">काम करते रहो !</string>
+    <string name="work_time">काम करते रहो!</string>
     <string name="liam_spradlin_title">के द्वारा देखभाल के साथ बनाया गया</string>
     <string name="francisco_franco_title">के द्वारा जादुई तरीकेसे विकसित</string>
     <string name="about_title">5217 के बारेमे   </string>
@@ -20,7 +20,7 @@
     <string name="license_error">आप पास नहीं करेंगे !</string>
     <string name="license_error_summary">हम आपकी खरीद के लाइसेंस को सत्यापित करने में असमर्थ थे। हमसे संपर्क करें यदि आप मानते हैं कि यह एक गलती है</string>
     <string name="led_off">काम चक्र के दौरान 5217  सक्रिय नहीं होगा </string>
-    <string name="led_on">ाम चक्र के दौरान 5217  सक्रिय होगा</string>
+    <string name="led_on">काम चक्र के दौरान 5217  सक्रिय होगा</string>
     <string name="led_title">अधिसूचना एलईडी</string>
     <string name="screen_on_off">डिस्प्ले  चक्र संक्रमण के दौरान बंद रहेगा</string>
     <string name="screen_on_on">चक्र संक्रमण का संकेत करने पर डिस्प्ले  चालू  हो जाएगा</string>
