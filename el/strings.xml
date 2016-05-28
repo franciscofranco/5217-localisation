@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="time_for_a_break">Ώρα για διάλειμμα</string>
     <string name="of_work_left">%1$d %2$s ακόμα σε αυτόν τον κύκλο</string>
@@ -6,7 +7,7 @@
     <string name="liam_spradlin_title">Σχεδιάστηκε με αγάπη από</string>
     <string name="francisco_franco_title">Μαγικός προγραμματισμός από</string>
     <string name="about_title">Σχετικά με το 5217</string>
-    <string name="open_with">Άνοιγμα με...</string>
+    <string name="open_with">Άνοιγμα με…</string>
     <string name="share_title">Κοινοποίηση</string>
     <string name="options_title">Επιλογές</string>
     <string name="keep_display_on_while_charging">Διατήρησε την οθόνη ανοιχτή κατά την διάρκεια φόρτισης</string>
@@ -43,7 +44,7 @@
     <string name="cup_of_tea">\u0020- πιές ένα φλιτζάνι τσάι!</string>
     <string name="feet_up">\u0020- σήκωσε τα πόδια σου!</string>
     <string name="deep_breath">\u0020- πάρε μια βαθιά ανάσα!</string>
-    <string name="ponder_infinity">\u0020- χάσου στο άπειρο...</string>
+    <string name="ponder_infinity">\u0020- χάσου στο άπειρο…</string>
     <string name="enjoy_moment">\u0020- απόλαυσε την στιγμή!</string>
     <string name="order_pizza">\u0020- μήπως να παράγγελνες μια πίτσα;</string>
     <string name="hi_to_stranger">\u0020- πες γεια σε έναν ξένο!</string>
