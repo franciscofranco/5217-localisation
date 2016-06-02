@@ -19,7 +19,7 @@
     <string name="retry">पुन: प्रयास</string>
     <string name="cancel">रद्द करें</string>
     <string name="license_error">आप पास नहीं करेंगे !</string>
-    <string name="license_error_summary">हम आपकी खरीद के लाइसेंस को सत्यापित करने में असमर्थ थे। हमसे संपर्क करें यदि आप मानते हैं कि यह एक गलती है</string>
+    <string name="license_error_summary">हम आपकी खरीद के लाइसेंस को सत्यापित करने में असमर्थ है। हमसे संपर्क करें यदि आप मानते हैं कि यह एक गलती है</string>
     <string name="led_off">काम चक्र के दौरान 5217  सक्रिय नहीं होगा </string>
     <string name="led_on">काम चक्र के दौरान 5217  सक्रिय होगा</string>
     <string name="led_title">अधिसूचना एलईडी</string>
