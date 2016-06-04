@@ -26,9 +26,19 @@
     <string name="screen_on_off">ekran pozostanie wyłączony podczas zmiany cyklu</string>
     <string name="screen_on_on">ekran włączy się aby zasygnalizować zmianę cyklu</string>
     <string name="screen_on_title">Użyj ekranu do sygnalizacji zmiany cyklu</string>
-    <string name="translate">Pomóz nam tłumaczyć 5217</string>
+    <string name="translate">Pomóż nam tłumaczyć 5217</string>
     <string name="vibration_title">Wibracje</string>
     <string name="vibration_on">wibracje podczas zmiany cyklu</string>
+    <string name="invite_title">Zaproś znajomych do korzystania z 5217</string>
+    <string name="invite_message">Hej! Używam 5217 aby zwiększyć produktywność. Wypróbuj i daj mi znać jak sie sprawdza!</string>
+    <string name="invite_cta">BĄDŹ BARDZIEJ PRODUKTYWNY</string>
+    <string name="alarm_sound_title">Głośność alarmu</string>
+    <string name="alarm_sound_title_off">głośność zależna od ustawień systemowych</string>
+    <string name="alarm_sound_title_on">głośność niezależna od ustawień systemowych</string>
+    <string name="about_header_1">5217 to prosty minutnik oparty na cyklu pracy 52/17 opisanym przez</string>
+    <string name="here">tutaj</string>
+    <string name="minute">minuta</string>
+    <string name="minutes">minuty</string>
 
     <!-- Break motivational messages -->
     <string name="cup_of_tea">\u0020- napij się herbaty!</string>
