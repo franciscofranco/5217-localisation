@@ -32,7 +32,7 @@
     <string name="invite_title">Lade deine Freunde ein 5217 zu benutzen</string>
     <string name="invite_message">Hey! Ich nutze 5217 um meine Produktivität zu verbesseren. Probier es aus und lass mich wissen, ob es bei dir auch funktioniert!</string>
     <string name="invite_cta">SEI PRODUKTIVER</string>
-    <string name="alarm_sound_title">Alarton</string>
+    <string name="alarm_sound_title">Alarmton</string>
     <string name="alarm_sound_title_off">Lautstärke ist mit Systemlautsärke verknüpft</string>
     <string name="alarm_sound_title_on">Lautstärke ist unabhängig von Systemlautstärke</string>
     <string name="about_header_1">5217 ist ein simpler Produktivitäts-Timer basierend auf dem 52/17 Zyklus wie beschrieben von</string>
