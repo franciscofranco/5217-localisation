@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="time_for_a_break">Ora di fare una pausa</string>
-    <string name="of_work_left">%1$d minuti rimanenti in questo intervallo</string>
-    <string name="of_break_left">%1$d minuti rimanenti</string>
+    <string name="of_work_left">%1$d %2$s rimanenti in questo intervallo</string>
+    <string name="of_break_left">%1$d %2$s rimanenti</string>
     <string name="work_time">Continua a lavorare!</string>
     <string name="liam_spradlin_title">Disegnato con amore da</string>
     <string name="francisco_franco_title">Sviluppato magicamente da</string>

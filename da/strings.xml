@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="time_for_a_break">Tid til en pause</string>
-    <string name="of_work_left">%1$d minutter tilbage i denne cyklus</string>
-    <string name="of_break_left">%1$d minutter tilbage</string>
+    <string name="of_work_left">%1$d %2$s tilbage i denne cyklus</string>
+    <string name="of_break_left">%1$d %2$s tilbage</string>
     <string name="work_time">Fortsæt med at arbejde!</string>
     <string name="liam_spradlin_title">Designet med omhu af</string>
     <string name="francisco_franco_title">Udviklet på magisk vis af</string>
@@ -26,7 +27,7 @@
     <string name="screen_on_on">Skærmen vil tænde for at indikere overgang til en ny cyklus</string>
     <string name="screen_on_title">Brug skærmen til at indikere overgang til en ny cyklus</string>
     <string name="translate">Hjælp os med at oversætte 5217</string>
-	<string name="vibration_title">Vibration</string>
+    <string name="vibration_title">Vibration</string>
     <string name="vibration_on">enheden vibrerer ved overgang til ny cyklus</string>
 
     <!-- Break motivational messages -->
