@@ -43,8 +43,8 @@
     <string name="stop_cycle">Stop cycle</string>
     <string name="start_cycle_disabled">Start cycle shortcut is disabled</string>
     <string name="stop_cycle_disabled">Stop cycle shortcut is disabled</string>
-    <string name="doze_message">In order to get started on your 52–17 cycles you need to grant us permission to bypass Doze. We want to provide you the most accurate timing during your cycles regardless of your phone\'s sleep state\n\nAfter pressing the button below touch on \"Not optimized\", select \"All apps"\, then touch 5217 and choose \"Don\'t optimize\", then done, and we\'re good to go!</string>
-    <string name="grant">Grant permission</string>
+    <string name="doze_message">To get started with 5217, grant the app permission to bypass Doze. This will provide you with accurate timing regardless of your phone\’s sleep state. Touch \"Continue.\" On the next screen, touch \"Not optimized\" and select \"All apps\", then touch 5217 and choose \"Don’t optimize.\"</string>
+    <string name="grant">Continue</string>
     <string name="dnd">Do not disturb during work cycles</string>
     <string name="dnd_none">normal interruption filter - no notifications are suppressed</string>
     <string name="dnd_low">all notifications are suppressed except those marked as priority. Some audio streams are muted</string>
@@ -54,7 +54,7 @@
     <string name="dnd_priority">Priority only</string>
     <string name="dnd_alarms">Alarms only</string>
     <string name="dnd_do_not_disturb">Total silence</string>
-    <string name="system_setting">System setting</string>
+    <string name="system_setting">System default</string>
     <string name="timer_alert">5217 daily usage alert</string>
     <string name="timer_alert_summary">you\'ll be notified at %1$s to start using 5217 cycles</string>
     <string name="timer_alert_summary_disabled">you won\'t be poked to start your cycles at a specific time</string>
