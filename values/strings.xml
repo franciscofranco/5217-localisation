@@ -43,7 +43,7 @@
     <string name="stop_cycle">Stop cycle</string>
     <string name="start_cycle_disabled">Start cycle shortcut is disabled</string>
     <string name="stop_cycle_disabled">Stop cycle shortcut is disabled</string>
-    <string name="doze_message">To get started with 5217, grant the app permission to bypass Doze. This will provide you with accurate timing regardless of your phone\’s sleep state. Touch \"Continue.\" On the next screen, touch \"Not optimized\" and select \"All apps\", then touch 5217 and choose \"Don’t optimize.\"</string>
+    <string name="doze_message">To get started with 5217, grant the app permission to bypass Doze. This will provide you with accurate timing regardless of your phone\’s sleep state. Touch \"Continue.\" On the next screen, touch \"Not optimized\" and select \"All apps,\" then touch 5217 and choose \"Don’t optimize.\"</string>
     <string name="grant">Continue</string>
     <string name="dnd">Do not disturb during work cycles</string>
     <string name="dnd_none">normal interruption filter - no notifications are suppressed</string>
@@ -59,7 +59,43 @@
     <string name="timer_alert_summary">you\'ll be notified at %1$s to start using 5217 cycles</string>
     <string name="timer_alert_summary_disabled">you won\'t be poked to start your cycles at a specific time</string>
     <string name="time_for_work">It\'s time for work!</string>
-    <string name="time_for_work_message">Start the cycle improve your productivity</string>
+    <string name="time_for_work_message">Start a new cycle to improve your productivity!</string>
+    <string name="stats_title">Stats</string>
+    <string name="repeat">Repeat</string>
+    <string name="monday">M</string>
+    <string name="tuesday">T</string>
+    <string name="wednesday">W</string>
+    <string name="thursday">T</string>
+    <string name="friday">F</string>
+    <string name="saturday">S</string>
+    <string name="sunday">S</string>
+    <string name="stats">Work cycles</string>
+    <string name="work_cycles_today">Today</string>
+    <string name="work_cycles_week">This week</string>
+    <string name="work_cycles_month">This month</string>
+    <string name="goal_cycles_day">Complete %1$d cycles today</string>
+    <string name="goal_cycles_week">Complete %1$d cycles this week</string>
+    <string name="goal_cycles_month">Complete %1$d cycles in a month</string>
+    <string name="medal_award">Congratulations for being super productive!</string>
+    <string name="medal_award_message">You worked very hard today, you\'re amazing!</string>
+    <string name="unlock">Upgrade</string>
+    <string name="upgrade_title">Upgrade for unlimited cycles</string>
+    <string name="upgrade_message">You\'ll be able to empower your productivity with unlimited 52–17 cycles</string>
+    <string name="download_play_games_title">5217 needs Play Games to start</string>
+    <string name="download_play_games_message">On this free version of 5217 we need to use Google Play Games functionality to start your cycles. Download it from the button below and you\'re good to go!</string>
+    <string name="get_play_games">Get Play Games</string>
+    <string name="doze_title">Hello - let\'s get to work!</string>
+    <string name="goal_cycles_day_completed_title">Awesome!</string>
+    <string name="goal_cycles_day_completed_summary">You just completed 8 cycles today. Keep it up \uD83D\uDC4D.</string>
+    <string name="goal_cycles_week_completed_title">You worked really hard this week</string>
+    <string name="goal_cycles_week_completed_summary">Whoa, you just finished 40 cycles this week. That\'s some serious productivity. We\'re proud of you!</string>
+    <string name="goal_cycles_month_completed_title">Productivity Master!</string>
+    <string name="goal_cycles_month_completed_summary">Completing 160 cycles this month is a true feat! This achievement will be remembered in legends, songs will be made and echoed for eternity.</string>
+    <string name="share_msg_day">I just completed 8 work cycles today with 5217!\nBe productive like me!\n\nDownload 5217 - https://goo.gl/RNbx0l</string>
+    <string name="share_msg_week">I just completed 40 work cycles this week with 5217!\nBe productive like me!\n\nDownload 5217 - https://goo.gl/RNbx0l</string>
+    <string name="share_msg_month">I just completed 160 work cycles this month with 5217!\nBe productive like me!\n\nDownload 5217 - https://goo.gl/RNbx0l</string>
+    <string name="no_method_error">Unfortunately your manufacturer didn\'t implement this functionality, so you can\'t use it</string>
+    <string name="achievements">Achievements</string>
 
     <!-- Break motivational messages -->
     <string name="cup_of_tea">\u0020- have a cup of tea!</string>
@@ -93,5 +129,6 @@
     <string name="watch_funny_video">\u0020- watch a funny video!</string>
     <string name="treat_yourself">\u0020- treat yo self!</string>
     <string name="have_a_kitkat">\u0020- … have a KitKat!</string>
-    <string name="doze_title">Hello - let\'s get to work!</string>
+    <string name="send_a_tweet">\u0020- tweet the world!</string>
+    <string name="say_i_love_you">\u0020- tell someone you love \'em</string>
 </resources>
