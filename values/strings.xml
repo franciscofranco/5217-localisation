@@ -32,7 +32,7 @@
     <string name="invite_title">Invite your friends to use 5217</string>
     <string name="invite_message">Hey! I\'ve been using 5217 to boost my productivity. Try it out and let me know how it works for you!</string>
     <string name="invite_cta">BE MORE PRODUCTIVE</string>
-    <string name="alarm_sound_title">Alarm sound</string>
+    <string name="alarm_sound_title">Notification sound volume</string>
     <string name="alarm_sound_title_off">volume scales with the system notification setting</string>
     <string name="alarm_sound_title_on">volume is independent of the system setting</string>
     <string name="about_header_1">5217 is a simple productivity timer based on 52/17 work cycle described by</string>
@@ -78,12 +78,9 @@
     <string name="goal_cycles_month">Complete %1$d cycles in a month</string>
     <string name="medal_award">Congratulations for being super productive!</string>
     <string name="medal_award_message">You worked very hard today, you\'re amazing!</string>
-    <string name="unlock">Upgrade</string>
-    <string name="upgrade_title">Upgrade for unlimited cycles</string>
-    <string name="upgrade_message">You\'ll be able to empower your productivity with unlimited 52–17 cycles</string>
-    <string name="download_play_games_title">5217 needs Play Games to start</string>
-    <string name="download_play_games_message">On this free version of 5217 we need to use Google Play Games functionality to start your cycles. Download it from the button below and you\'re good to go!</string>
-    <string name="get_play_games">Get Play Games</string>
+    <string name="unlock">Development donation</string>
+    <string name="upgrade_title">Upgrade to support my work</string>
+    <string name="upgrade_message">You\'ll feel amazing in knowing this purchase will make me feel really happy and keep me very motivated to work on 5217 to keep boosting your productivity</string>
     <string name="doze_title">Hello - let\'s get to work!</string>
     <string name="goal_cycles_day_completed_title">Awesome!</string>
     <string name="goal_cycles_day_completed_summary">You just completed 8 cycles today. Keep it up \uD83D\uDC4D.</string>
@@ -91,11 +88,21 @@
     <string name="goal_cycles_week_completed_summary">Whoa, you just finished 40 cycles this week. That\'s some serious productivity. We\'re proud of you!</string>
     <string name="goal_cycles_month_completed_title">Productivity Master!</string>
     <string name="goal_cycles_month_completed_summary">Completing 160 cycles this month is a true feat! This achievement will be remembered in legends, songs will be made and echoed for eternity.</string>
-    <string name="share_msg_day">I just completed 8 work cycles today with 5217!\nBe productive like me!\n\nDownload 5217 - https://goo.gl/RNbx0l</string>
-    <string name="share_msg_week">I just completed 40 work cycles this week with 5217!\nBe productive like me!\n\nDownload 5217 - https://goo.gl/RNbx0l</string>
-    <string name="share_msg_month">I just completed 160 work cycles this month with 5217!\nBe productive like me!\n\nDownload 5217 - https://goo.gl/RNbx0l</string>
+    <string name="share_msg_day">I just completed 8 work cycles today with 5217 and the only thing I got was this medal \uD83C\uDFC5!\nBe productive like me!\n\nDownload 5217 - https://goo.gl/RNbx0l</string>
+    <string name="share_msg_week">I just completed 40 work cycles this week with 5217 and the only thing I got was this medal \uD83C\uDFC5!\nBe productive like me!\n\nDownload 5217 - https://goo.gl/RNbx0l</string>
+    <string name="share_msg_month">I just completed 160 work cycles this month with 5217 and the only thing I got was this medal \uD83C\uDFC5!\nBe productive like me!\n\nDownload 5217 - https://goo.gl/RNbx0l</string>
     <string name="no_method_error">Unfortunately your manufacturer didn\'t implement this functionality, so you can\'t use it</string>
     <string name="achievements">Achievements</string>
+    <string name="purchase">Purchase</string>
+    <string name="trial_has_finished_title">Congrats - we\'re proud of you!</string>
+    <string name="trial_has_finished_message">You\'ve finished your first 10 work cycles! Please consider the in-app donation for just $2/2€ as it helps fuel our development efforts to provide you with the best productivity app in the world. You\'re awesome, and we are thrilled you\'ve tried 5217! (We won\'t bug you again with this notification)</string>
+    <string name="notification_sound_title">Notification sound</string>
+    <string name="notification_sound_summary_off">cycle transitions sound is mute</string>
+    <string name="notification_sound_summary_on">a playful sound will fire every cycle transition</string>
+    <string name="language">language</string>
+    <string name="language_dialog_title">Choose 5217\'s language</string>
+    <string name="start_working">Start working</string>
+    <string name="stop_working">Stop working</string>
 
     <!-- Break motivational messages -->
     <string name="cup_of_tea">\u0020- have a cup of tea!</string>
@@ -131,4 +138,5 @@
     <string name="have_a_kitkat">\u0020- … have a KitKat!</string>
     <string name="send_a_tweet">\u0020- tweet the world!</string>
     <string name="say_i_love_you">\u0020- tell someone you love \'em</string>
+
 </resources>
