@@ -41,7 +41,7 @@
     <string name="minutes">Minuten</string>
     <string name="start_cycle">Zyklus starten</string>
     <string name="stop_cycle">Zyklus stoppen</string>
-	<string name="start_cycle_disabled">Zyklusstart-Verknüpfung ist inaktiv</string>
+    <string name="start_cycle_disabled">Zyklusstart-Verknüpfung ist inaktiv</string>
     <string name="start_cycle_disabled">Zyklusstop-Verknüpfung ist inaktiv</string>
     <string name="doze_message">Um mit 5217 loszulegen, gewähre der App die Berechtigung, Doze zu umgehen. Dadurch wird die Zeit stets korrekt gemessen. Tippe auf \"Weiter\". Tippe auf dem nächsten Bildschirm auf \"Nicht optimiert\" und wähle \"Alle Apps\", dann tippe auf 5217 and wähle \"Nicht optimieren\".</string>
     <string name="grant">Weiter</string>
@@ -80,7 +80,7 @@
     <string name="medal_award_message">Du hast heute sehr hart gearbeitet. Gut gemacht!</string>
     <string name="unlock">Spenden</string>
     <string name="upgrade_title">Entwicklung unterstützen</string>
-	<string name="upgrade_message">Du wirst dich großartig fühlen, denn durch deine Spende bleibe ich motiviert, um weiter an 5217 zu arbeiten und deine Produktivität zu steigern.</string>
+    <string name="upgrade_message">Du wirst dich großartig fühlen, denn durch deine Spende bleibe ich motiviert, um weiter an 5217 zu arbeiten und deine Produktivität zu steigern.</string>
     <string name="doze_title">An die Arbeit!</string>
     <string name="goal_cycles_day_completed_title">Klasse!</string>
     <string name="goal_cycles_day_completed_summary">Du hast gerade 8 Zyklen an einem Tag geschafft. Weiter so \uD83D\uDC4D.</string>
@@ -93,16 +93,16 @@
     <string name="share_msg_month">Ich habe diesen Monat 160 Arbeitszyklen mit 5217 geschafft.\nSei so produktiv wie ich!\n\nDownloade 5217 - https://goo.gl/RNbx0l</string>
     <string name="no_method_error">Leider bietet dein Hersteller diese Funktion nicht an und du kannst sie nicht nutzen.</string>
     <string name="achievements">Errungenschaften</string>
-	<string name="purchase">Spenden</string>
-	<string name="trial_has_finished_title">Gratulation! Wir sind stolz auf dich.</string>
-	<string name="trial_has_finished_message">Du hast 10 Arbeitszyklen geschafft! Bitte denke über eine In-App-Spende von 2€ nach, die der Entwicklung der besten Produktivits-App der Welt zu Gute kommt. Du bist super und wir freuen uns, dass du 5217 ausprobiert hast. (Wir stören dich nicht noch einmal mit dieser Meldung.)</string>
-	<string name="notification_sound_title">Benachrichtigungston</string>
-	<string name="notification_sound_summary_off">Zykluswechsel erfolgt stumm</string>
-	<string name="notification_sound_summary_on">Zykluswechsel erfolgt mit einem fröhlichen Klang</string>
-	<string name="language">Sprache</string>
-	<string name="language_dialog_title">Wähle die Sprache von 5217</string>
-	<string name="start_working">Beginne mit der Arbeit</string>
-	<string name="stop_working">Beende die Arbeit</string>
+    <string name="purchase">Spenden</string>
+    <string name="trial_has_finished_title">Gratulation! Wir sind stolz auf dich.</string>
+    <string name="trial_has_finished_message">Du hast 10 Arbeitszyklen geschafft! Bitte denke über eine In-App-Spende von 2€ nach, die der Entwicklung der besten Produktivits-App der Welt zu Gute kommt. Du bist super und wir freuen uns, dass du 5217 ausprobiert hast. (Wir stören dich nicht noch einmal mit dieser Meldung.)</string>
+    <string name="notification_sound_title">Benachrichtigungston</string>
+    <string name="notification_sound_summary_off">Zykluswechsel erfolgt stumm</string>
+    <string name="notification_sound_summary_on">Zykluswechsel erfolgt mit einem fröhlichen Klang</string>
+    <string name="language">Sprache</string>
+    <string name="language_dialog_title">Wähle die Sprache von 5217</string>
+    <string name="start_working">Beginne mit der Arbeit</string>
+    <string name="stop_working">Beende die Arbeit</string>
 
     <!-- Break motivational messages -->
     <string name="cup_of_tea">\u0020- Trink eine Tasse Tee!</string>
@@ -136,6 +136,6 @@
     <string name="watch_funny_video">\u0020- Schau dir ein witziges Video an!</string>
     <string name="treat_yourself">\u0020- Belohn dich!!</string>
     <string name="have_a_kitkat">\u0020- … gönn' dir ein Kitkat!</string>
-	<string name="send_a_tweet">\u0020- Schreibe deinen Followern!</string>
+    <string name="send_a_tweet">\u0020- Schreibe deinen Followern!</string>
     <string name="say_i_love_you">\u0020- Sag Leuten, was sie dir bedeuten!</string>
 </resources>
