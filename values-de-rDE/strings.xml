@@ -42,7 +42,7 @@
     <string name="start_cycle">Zyklus starten</string>
     <string name="stop_cycle">Zyklus stoppen</string>
     <string name="start_cycle_disabled">Zyklusstart-Verknüpfung ist inaktiv</string>
-    <string name="start_cycle_disabled">Zyklusstop-Verknüpfung ist inaktiv</string>
+    <string name="stop_cycle_disabled">Zyklusstop-Verknüpfung ist inaktiv</string>
     <string name="doze_message">Um mit 5217 loszulegen, gewähre der App die Berechtigung, Doze zu umgehen. Dadurch wird die Zeit stets korrekt gemessen. Tippe auf \"Weiter\". Tippe auf dem nächsten Bildschirm auf \"Nicht optimiert\" und wähle \"Alle Apps\", dann tippe auf 5217 and wähle \"Nicht optimieren\".</string>
     <string name="grant">Weiter</string>
     <string name="dnd">\"Nicht stören\" während Arbeitszyklen</string>
@@ -114,7 +114,7 @@
     <string name="hi_to_stranger">\u0020- Grüße einen Fremden!</string>
     <string name="take_walk_around">\u0020- Geh spazieren!</string>
     <string name="stand_stretch">\u0020- Dehne dich!</string>
-    <string name="grab_coffee">\u0020- Hol' Kaffee!</string>
+    <string name="grab_coffee">\u0020- Hol\' Kaffee!</string>
     <string name="strike_pose">\u0020- Mach eine Pose!</string>
     <string name="catch_up_reading">\u0020- Lies weiter!</string>
     <string name="brainstorm">\u0020- Mach etwas Brainstorming!</string>
@@ -135,7 +135,7 @@
     <string name="consider_the_universe">\u0020- Denk über das Universum nach!</string>
     <string name="watch_funny_video">\u0020- Schau dir ein witziges Video an!</string>
     <string name="treat_yourself">\u0020- Belohn dich!!</string>
-    <string name="have_a_kitkat">\u0020- … gönn' dir ein Kitkat!</string>
+    <string name="have_a_kitkat">\u0020- … gönn\' dir ein Kitkat!</string>
     <string name="send_a_tweet">\u0020- Schreibe deinen Followern!</string>
     <string name="say_i_love_you">\u0020- Sag Leuten, was sie dir bedeuten!</string>
 </resources>

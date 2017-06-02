@@ -28,8 +28,8 @@
     <string name="screen_on_title">Utilizza il display per indicare il passaggio di ciclo</string>
     <string name="translate">Aiutaci a tradurre 5217</string>
     <string name="vibration_title">Vibrazione</string>
-    <string name="vibration_in">Il dispositivo vibrerà ai passaggi di ciclo</string>
-     <string name="invite_title">Invita i tuoi amici ad usare 5217</string>
+    <string name="vibration_on">Il dispositivo vibrerà ai passaggi di ciclo</string>
+    <string name="invite_title">Invita i tuoi amici ad usare 5217</string>
     <string name="invite_message">Ehi! Sto usando 5217 per incrementare la mia produttività. Provalo e fammi sapere come va per te!</string>
     <string name="invite_cta">SI PIÙ PRODUTTIVO</string>
     <string name="alarm_sound_title">Volume del suono di notifica</string>
@@ -87,10 +87,10 @@
     <string name="goal_cycles_week_completed_title">Hai lavorato molto duramente questa settimana</string>
     <string name="goal_cycles_week_completed_summary">Whoa, hai appena finito 40 cicli questa settimana. Questa è produttività seria. Sono fiero di te!</string>
     <string name="goal_cycles_month_completed_title">Master della produttività!</string>
-    <string name="goal_cycles_month_completed_summary">Completare 160 cicli questo mese è un'impresa vera! Questo risultato sarà ricordato nelle leggende, canzoni saranno scritte ed eccheggiate per l'eternità.</string>
-    <string name="share_msg_day">Ho appena completato 8 cicli di lavoro con 5217 e l'unica cosa che ho ottenuto è stata questa medaglia \uD83C\uDFC5!\nSi produttivo come me!\n\nScarica 5217 - https://goo.gl/RNbx0l</string>
-    <string name="share_msg_week">Ho appena completato 40 cicli di lavoro questa settimana con 5217 e l'unica cosa che ho ottenuto è stata questa medaglia \uD83C\uDFC5!\nSi produttivo come me!\n\nScarica 5217 - https://goo.gl/RNbx0l</string>
-    <string name="share_msg_month">Ho appena completato 160 cicli di lavoro questa settimana con 5217 e l'unica cosa che ho ottenuto è stata questa medaglia \uD83C\uDFC5!\nSi produttivo come me!\n\nScarica 5217 - https://goo.gl/RNbx0l</string>
+    <string name="goal_cycles_month_completed_summary">Completare 160 cicli questo mese è un\'impresa vera! Questo risultato sarà ricordato nelle leggende, canzoni saranno scritte ed eccheggiate per l\'eternità.</string>
+    <string name="share_msg_day">Ho appena completato 8 cicli di lavoro con 5217 e l\'unica cosa che ho ottenuto è stata questa medaglia \uD83C\uDFC5!\nSi produttivo come me!\n\nScarica 5217 - https://goo.gl/RNbx0l</string>
+    <string name="share_msg_week">Ho appena completato 40 cicli di lavoro questa settimana con 5217 e l\'unica cosa che ho ottenuto è stata questa medaglia \uD83C\uDFC5!\nSi produttivo come me!\n\nScarica 5217 - https://goo.gl/RNbx0l</string>
+    <string name="share_msg_month">Ho appena completato 160 cicli di lavoro questa settimana con 5217 e l\'unica cosa che ho ottenuto è stata questa medaglia \uD83C\uDFC5!\nSi produttivo come me!\n\nScarica 5217 - https://goo.gl/RNbx0l</string>
     <string name="no_method_error">Sfortunatamente il tuo produttore non supporta questa funzionalità, quindi non la puoi usare</string>
     <string name="achievements">Risultati</string>
     <string name="purchase">Acquisto</string>
