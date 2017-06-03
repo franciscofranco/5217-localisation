@@ -56,7 +56,7 @@
     <string name="dnd_do_not_disturb">Total silence</string>
     <string name="system_setting">System default</string>
     <string name="timer_alert">5217 daily usage alert</string>
-    <string name="timer_alert_summary">you\'ll be notified at %1$s to start using 5217 cycles</string>
+    <string name="timer_alert_summary">you\'ll be notified to start using 5217 cycles</string>
     <string name="timer_alert_summary_disabled">you won\'t be poked to start your cycles at a specific time</string>
     <string name="time_for_work">It\'s time for work!</string>
     <string name="time_for_work_message">Start a new cycle to improve your productivity!</string>

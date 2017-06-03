@@ -56,7 +56,7 @@
     <string name="dnd_do_not_disturb">Silenzio totale</string>
     <string name="system_setting">Impostazione predefinita</string>
     <string name="timer_alert">5217 notifica giornaliera di utilizzo</string>
-    <string name="timer_alert_summary">sarai notificato alle %1$s di iniziare i cicli 5217</string>
+    <string name="timer_alert_summary">sarai notificato di iniziare i cicli 5217</string>
     <string name="timer_alert_summary_disabled">non sarai notificato di iniziare i tuoi cicli ad un ora specifica</string>
     <string name="time_for_work">È ora di lavorare!</string>
     <string name="time_for_work_message">Inizia un nuovo ciclo per imcrementare la tua produttività!</string>

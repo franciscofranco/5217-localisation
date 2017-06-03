@@ -91,7 +91,7 @@
     <string name="time_for_work">¡Es hora de trabajar!</string>
     <string name="time_for_work_message">Comience un nuevo ciclo para mejorar su productividad!</string>
     <string name="timer_alert">Alerta de uso diario de 5217</string>
-    <string name="timer_alert_summary">se le notificará en %1$s para comenzar a usar ciclos</string>
+    <string name="timer_alert_summary">se le notificará para comenzar a usar ciclos</string>
     <string name="timer_alert_summary_disabled">usted no será empujado para iniciar sus ciclos en un momento específico</string>
     <string name="trial_has_finished_message">¡Has terminado tus primeros 10 ciclos de trabajo! Considere la donación en la aplicación por sólo 2€, ya que ayuda a impulsar nuestros esfuerzos de desarrollo para ofrecerle la mejor aplicación de productividad del mundo. Eres impresionante, y estamos encantados de haber intentado 5217! (No volveremos a molestarte con esta notificación)</string>
     <string name="trial_has_finished_title">Felicidades - estamos orgullosos de ti!</string>

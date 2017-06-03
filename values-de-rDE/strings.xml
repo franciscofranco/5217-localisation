@@ -56,7 +56,7 @@
     <string name="dnd_do_not_disturb">Lautlos</string>
     <string name="system_setting">Systemstandard</string>
     <string name="timer_alert">Tägliche 5217-Meldung</string>
-    <string name="timer_alert_summary">Um %1$s erinnern, 5217 zu benutzen</string>
+    <string name="timer_alert_summary">Sie werden benachrichtigt, um 5217 Zyklen zu benutzen</string>
     <string name="timer_alert_summary_disabled">Nicht erinnern, 5217 zu benutzen</string>
     <string name="time_for_work">Zeit zu Arbeiten!</string>
     <string name="time_for_work_message">Starte einen neuen Zyklus um deine Produktivität zu steigern!</string>

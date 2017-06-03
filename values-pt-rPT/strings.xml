@@ -96,7 +96,7 @@
     <string name="time_for_work">É hora de começar a trabalhar</string>
     <string name="time_for_work_message">Começa um novo cilo para aumentar a productividade!</string>
     <string name="timer_alert">Alerta para utilizar o 5217</string>
-    <string name="timer_alert_summary">vais ser notificado às %1$s para começar a usar os ciclos de trabalho</string>
+    <string name="timer_alert_summary">vais ser notificado para começar a usar os ciclos de trabalho</string>
     <string name="timer_alert_summary_disabled">não vais ser alertado</string>
     <string name="trial_has_finished_message">Acabaste os teus primeiros 10 ciclos! Por apenas 2€ podes contribuir com uma donação para eu continuar a trabalhar nesta app. 2€ no contexto geral é peanuts tendo em conta que o 5217 ajuda consideravelmente a melhorar a productividade de trabalho. És espectacular e não posso estar mais feliz por teres utilizado o 5217 (Não vou voltar a chatear com esta notificação)</string>
     <string name="trial_has_finished_title">Parabéns - estamos orgulhosos de ti!</string>
