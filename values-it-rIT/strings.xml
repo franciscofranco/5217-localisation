@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="time_for_a_break">Ora di fare una pausa</string>
+    <string name="time_for_a_break">È l\'ora di fare una pausa</string>
     <string name="of_work_left">%1$d %2$s rimanenti in questo intervallo</string>
     <string name="of_break_left">%1$d %2$s rimanenti</string>
     <string name="work_time">Continua a lavorare!</string>
@@ -55,7 +55,7 @@
     <string name="dnd_alarms">Solo sveglie</string>
     <string name="dnd_do_not_disturb">Silenzio totale</string>
     <string name="system_setting">Impostazione predefinita</string>
-    <string name="timer_alert">5217 notifica giornaliera di utilizzo</string>
+    <string name="timer_alert">5217 notifica giornaliera d\'utilizzo</string>
     <string name="timer_alert_summary">sarai notificato di iniziare i cicli 5217</string>
     <string name="timer_alert_summary_disabled">non sarai notificato di iniziare i tuoi cicli ad un ora specifica</string>
     <string name="time_for_work">È ora di lavorare!</string>
@@ -76,7 +76,7 @@
     <string name="goal_cycles_day">Completa %1$d cicli oggi</string>
     <string name="goal_cycles_week">Completa %1$d cicli questa settimana</string>
     <string name="goal_cycles_month">Completa %1$d cicli in un mese</string>
-    <string name="medal_award">Congratulazione per essere super produttivo!</string>
+    <string name="medal_award">Congratulazioni per essere super produttivo!</string>
     <string name="medal_award_message">Hai lavorato molto duramente oggi, sei magnifico!</string>
     <string name="unlock">Donazione di sviluppo</string>
     <string name="upgrade_title">Aggiorna per supportare il mio lavoro</string>
@@ -94,7 +94,7 @@
     <string name="no_method_error">Sfortunatamente il tuo produttore non supporta questa funzionalità, quindi non la puoi usare</string>
     <string name="achievements">Risultati</string>
     <string name="purchase">Acquisto</string>
-    <string name="trial_has_finished_title">Congratulazione - sono fiero di te!</string>
+    <string name="trial_has_finished_title">Congratulazioni - sono fiero di te!</string>
     <string name="trial_has_finished_message">Hai finito il tuoi primi 10 cicli di lavoro! Per favore considera la donazione in-app di $2/2€ in quanto aiuta ad alimentare i nostri sforzi di sviluppo per darti la miglior app di produttività al mondo. Sei fantastico, e siamo entusiasti che tu abbia provato 5217! (Non ti infastideremo più con questa notifica)</string>
     <string name="notification_sound_title">Suono di notifica</string>
     <string name="notification_sound_summary_off">il suono di transizione tra cicli è disabilitato</string>
@@ -115,7 +115,7 @@
     <string name="take_walk_around">\u0020- fa due passi!</string>
     <string name="stand_stretch">\u0020- alzati e stiracchiati!</string>
     <string name="grab_coffee">\u0020-prenditi un caffè!</string>
-    <string name="strike_pose">\u0020- fa dello stretching !</string>
+    <string name="strike_pose">\u0020- fai dello stretching !</string>
     <string name="catch_up_reading">\u0020- leggi un capitolo del romanzo!</string>
     <string name="brainstorm">\u0020- rifletti un po\'!</string>
     <string name="clean_junk_drawer">\u0020- pulisci il tuo cassetto!</string>
@@ -128,14 +128,14 @@
     <string name="rest_your_eyes">\u0020- riposati gli occhi!</string>
     <string name="stretch_your_legs">\u0020- allungati le gambe!</string>
     <string name="think_of_a_joke">\u0020- pensa a quella barzelletta!</string>
-    <string name="make_quick_call">\u0020- fa una veloce telefonata!</string>
+    <string name="make_quick_call">\u0020- fai una veloce telefonata!</string>
     <string name="read_listicle">\u0020- leggi un articolo!</string>
-    <string name="have_a_snack">\u0020- fa uno spuntino!</string>
+    <string name="have_a_snack">\u0020- fai uno spuntino!</string>
     <string name="play_quick_game">\u0020- fa una partitina!</string>
     <string name="consider_the_universe">\u0020- pensa all\'immensità dell\'universo!</string>
     <string name="watch_funny_video">\u0020- guarda un video divertente!</string>
     <string name="treat_yourself">\u0020- mangia una caramella!</string>
     <string name="have_a_kitkat">\u0020- … spezza un KitKat!</string>
-    <string name="send_a_tweet">\u0020- twetta al mondo!</string>
-    <string name="say_i_love_you">\u0020- di a qualcuno che gli piaci</string>
+    <string name="send_a_tweet">\u0020- twitta al mondo!</string>
+    <string name="say_i_love_you">\u0020- dì a qualcuno che gli piaci</string>
 </resources>
