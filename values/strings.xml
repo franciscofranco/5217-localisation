@@ -54,6 +54,9 @@
     <string name="dnd_priority">Priority only</string>
     <string name="dnd_alarms">Alarms only</string>
     <string name="dnd_do_not_disturb">Total silence</string>
+    <string name="dnd_all">All</string>
+    <string name="dnd_do_not_disturb_l_summary">No interruptions. Not even alarms.</string>
+    <string name="dnd_priority_summary">Priority interruptions only.</string>
     <string name="system_setting">System default</string>
     <string name="timer_alert">5217 daily usage alert</string>
     <string name="timer_alert_summary">you\'ll be notified to start using 5217 cycles</string>
@@ -103,6 +106,8 @@
     <string name="language_dialog_title">Choose 5217\'s language</string>
     <string name="start_working">Start working</string>
     <string name="stop_working">Stop working</string>
+    <string name="alert_time">Alert time</string>
+    <string name="countdown_notif_channel_id">Countdown Timer</string>
 
     <!-- Break motivational messages -->
     <string name="cup_of_tea">\u0020- have a cup of tea!</string>
@@ -138,5 +143,4 @@
     <string name="have_a_kitkat">\u0020- … have a KitKat!</string>
     <string name="send_a_tweet">\u0020- tweet the world!</string>
     <string name="say_i_love_you">\u0020- tell someone you love \'em</string>
-
 </resources>
