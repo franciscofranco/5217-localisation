@@ -35,7 +35,7 @@
     <string name="alarm_sound_title">Volume du son de notification</string>
     <string name="alarm_sound_title_off">le volume sera réglé sur celui des notifications dans les paramètres systèmes</string>
     <string name="alarm_sound_title_on">le volume est indépendant de celui des paramètres systèmes</string>
-    <string name="about_header_1">5217 est un somple minuteur basé sur les cycle de travail 52/17 décrit par</string>
+    <string name="about_header_1">5217 est un simple minuteur basé sur les cycle de travail 52/17 décrit par</string>
     <string name="here">ici</string>
     <string name="minute">minute</string>
     <string name="minutes">minutes</string>
