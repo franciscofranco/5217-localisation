@@ -76,14 +76,14 @@
     <string name="work_cycles_today">Today</string>
     <string name="work_cycles_week">This week</string>
     <string name="work_cycles_month">This month</string>
-    <string name="goal_cycles_day">Complete %1$d cycles today</string>
-    <string name="goal_cycles_week">Complete %1$d cycles this week</string>
-    <string name="goal_cycles_month">Complete %1$d cycles in a month</string>
+    <string name="goal_cycles_day">Complete %1$d more cycles today</string>
+    <string name="goal_cycles_week">Complete %1$d more cycles this week</string>
+    <string name="goal_cycles_month">Complete %1$d more cycles in a month</string>
     <string name="medal_award">Congratulations for being super productive!</string>
     <string name="medal_award_message">You worked very hard today, you\'re amazing!</string>
-    <string name="unlock">Development donation</string>
-    <string name="upgrade_title">Upgrade to support my work</string>
-    <string name="upgrade_message">You\'ll feel amazing in knowing this purchase will make me feel really happy and keep me very motivated to work on 5217 to keep boosting your productivity</string>
+    <string name="unlock">Upgrade to unlock custom timers</string>
+    <string name="upgrade_title">Custom timers!</string>
+    <string name="upgrade_message">Being able to set your own timer has been a requested feature since day 1. We\'ve been reluctant to implement it but we feel now it\'s the right time.\n\nWe\'re still 52–17 which is why this is a paid upgrade.\n\nThe Work and Break settings will be available inside Options.\n\nWe hope you\'ll love it and enjoy the improvements on your productivity 🙌</string>
     <string name="doze_title">Hello - let\'s get to work!</string>
     <string name="goal_cycles_day_completed_title">Awesome!</string>
     <string name="goal_cycles_day_completed_summary">You just completed 8 cycles today. Keep it up \uD83D\uDC4D.</string>
@@ -108,6 +108,14 @@
     <string name="stop_working">Stop working</string>
     <string name="alert_time">Alert time</string>
     <string name="countdown_notif_channel_id">Countdown Timer</string>
+    <string name="custom_timer">Custom timer</string>
+    <string name="upgrade">Upgrade!</string>
+    <string name="work_timer_title">Work time period</string>
+    <string name="break_timer_title">Break time period</string>
+    <string name="in_minutes">in minutes</string>
+    <string name="break_messages_disabled">show preset motivational messages</string>
+    <string name="break_messages_enabled">show your custom break message</string>
+    <string name="break_messages_title">Custom break message</string>
 
     <!-- Break motivational messages -->
     <string name="cup_of_tea">\u0020- have a cup of tea!</string>
@@ -143,4 +151,5 @@
     <string name="have_a_kitkat">\u0020- … have a KitKat!</string>
     <string name="send_a_tweet">\u0020- tweet the world!</string>
     <string name="say_i_love_you">\u0020- tell someone you love \'em</string>
+    <string name="error_timer_period">You can\'t choose a period lower than 1 minute</string>
 </resources>
