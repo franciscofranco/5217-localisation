@@ -41,8 +41,8 @@
     <string name="minutes">минут</string>
     <string name="start_cycle">Запустить цикл</string>
     <string name="stop_cycle">Остановить цикл</string>
-    <string name="start_cycle_disabled">Start cycle shortcut is disabled</string>
-    <string name="stop_cycle_disabled">Stop cycle shortcut is disabled</string>
+    <string name="start_cycle_disabled">Запуск цикла отключен</string>
+    <string name="stop_cycle_disabled">Остановка цикла отключена</string>
     <string name="doze_message">Чтобы начать пользоваться 5217, дайте разрешение игнорировать режим Doze. Это обеспечит точный замер времени независимо от состояния вашего телефона в режиме сна. Нажмите \"Продолжить.\" На следующем экране нажмите на \"Не экономят заряд\" и выберите \"Все приложения,\" затем нажмите на 5217 и выберите \"Не экономить.\"</string>
     <string name="grant">Продолжить</string>
     <string name="dnd">Не беспокоить во время рабочего цикла</string>
@@ -123,7 +123,7 @@
     <string name="deep_breath">\u0020- сделайте глубокий вдох!</string>
     <string name="ponder_infinity">\u0020- задумайтесь о бесконечности…</string>
     <string name="enjoy_moment">\u0020- насладитесь моментом!</string>
-    <string name="order_pizza">\u0020- может заказать пиццу?</string>
+    <string name="order_pizza">\u0020- может, заказать пиццу?</string>
     <string name="hi_to_stranger">\u0020- скажите привет незнакомцу!</string>
     <string name="take_walk_around">\u0020- пройдитесь вокруг!</string>
     <string name="stand_stretch">\u0020- встаньте и потянитесь!</string>
@@ -131,7 +131,7 @@
     <string name="strike_pose">\u0020- встаньте в позу!</string>
     <string name="catch_up_reading">\u0020- продолжите читать!</string>
     <string name="brainstorm">\u0020- проведите мозговой штурм!</string>
-    <string name="clean_junk_drawer">\u0020- уберите в своём ящике!</string>
+    <string name="clean_junk_drawer">\u0020- очистите свою мусорную корзину!</string>
     <string name="have_a_daydream">\u0020- пофантазируйте!</string>
     <string name="share_progress">\u0020- поделитесь своим прогрессом!</string>
     <string name="clear_your_mind">\u0020- очистите свой разум!</string>
@@ -149,7 +149,7 @@
     <string name="watch_funny_video">\u0020- посмотрите смешное видео!</string>
     <string name="treat_yourself">\u0020- побалуйте себя!</string>
     <string name="have_a_kitkat">\u0020- … скушайте KitKat!</string>
-    <string name="send_a_tweet">\u0020- tweet the world!</string>
+    <string name="send_a_tweet">\u0020- твитните этому миру!</string>
     <string name="say_i_love_you">\u0020- скажите кому-нибудь «Я люблю тебя»! \'em</string>
-    <string name="error_timer_period">Вы не можете выбрать период, который меньше одной минуты</string>
+    <string name="error_timer_period">Вы не можете выбрать период меньше одной минуты</string>
 </resources>
