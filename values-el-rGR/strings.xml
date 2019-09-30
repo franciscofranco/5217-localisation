@@ -15,7 +15,7 @@
     <string name="system_default">προεπιλεγμένο</string>
     <string name="rate_5217">Βαθμολόγησε το 5217</string>
     <string name="be_productive_and_download">Γίνε παραγωγικός σαν εμένα!\n\nΚατέβασε το 5217 - https://goo.gl/RNbx0l</string>
-    <string name="reset_toast">Επανεκκινήση</string>
+    <string name="reset_toast">Επανεκκίνηση</string>
     <string name="retry">Επανάληψη</string>
     <string name="cancel">Ακύρωση</string>
     <string name="license_error">You shall not pass!</string>
