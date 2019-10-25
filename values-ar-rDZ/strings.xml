@@ -1,3 +1,5 @@
+
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string name="time_for_a_break">حان الوقت لأخذ قسط من الراحة!</string>
     <string name="of_work_left">تبقى٪ 1 $ d٪ 2 $ s في هذه الدورة</string>
@@ -140,3 +142,4 @@
     <string name="say_i_love_you">أخبر شخص تحبه</string>
            
 </resources>
+
