@@ -35,8 +35,8 @@
     <string name="alarm_sound_title">Volume du son de notification</string>
     <string name="alarm_sound_title_off">le volume sera réglé sur celui des notifications dans les paramètres systèmes</string>
     <string name="alarm_sound_title_on">le volume est indépendant de celui des paramètres systèmes</string>
-    <string name="about_header_1">5217 est un simple minuteur basé sur les cycle de travail 52/17 décrit par</string>
-    <string name="here">ici</string>
+    <string name="about_header_1">5217 est un simple minuteur basé sur les cycle de travail 52-17 décrit par</string>
+    <string name="here">Ici</string>
     <string name="minute">minute</string>
     <string name="minutes">minutes</string>
     <string name="start_cycle">Démarrer un cycle</string>
@@ -81,7 +81,7 @@
     <string name="unlock">Don pour le développement</string>
     <string name="upgrade_title">Mets à niveau pour supporter mon travail</string>
     <string name="upgrade_message">Tu vas te sentir bien de savoir que cet achat va me rendre très heureux et motivé pour travailler sur cette application pour augmenter ta productivité</string>
-    <string name="doze_title">Salut - mettons nous au travail!</string>
+    <string name="doze_title">Salut, mettons nous au travail!</string>
     <string name="goal_cycles_day_completed_title">Incroyable!</string>
     <string name="goal_cycles_day_completed_summary">Tu as complété(e) 8 cycles aujourd\'hui. Continu comme ça \uD83D\uDC4D.</string>
     <string name="goal_cycles_week_completed_title">Tu as travaillé dur cette semaine</string>
